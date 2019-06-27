@@ -1,0 +1,44 @@
+﻿  main.cpp
+c:\users\admin\desktop\graph_calculator\graph_calculator\helper.cpp(46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\admin\desktop\graph_calculator\graph_calculator\helper.cpp(48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\admin\desktop\graph_calculator\graph_calculator\helper.cpp(50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\admin\desktop\graph_calculator\graph_calculator\main.cpp(209): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\admin\desktop\graph_calculator\graph_calculator\main.cpp(398): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\admin\desktop\graph_calculator\graph_calculator\main.cpp(940): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\admin\desktop\graph_calculator\graph_calculator\main.cpp(947): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\admin\desktop\graph_calculator\graph_calculator\main.cpp(1412): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\admin\desktop\graph_calculator\graph_calculator\main.cpp(1415): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\admin\desktop\graph_calculator\graph_calculator\main.cpp(1418): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\admin\desktop\graph_calculator\graph_calculator\main.cpp(1420): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\admin\desktop\graph_calculator\graph_calculator\main.cpp(1422): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\admin\desktop\graph_calculator\graph_calculator\main.cpp(1429): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\admin\desktop\graph_calculator\graph_calculator\main.cpp(1430): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\admin\desktop\graph_calculator\graph_calculator\main.cpp(1459): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\admin\desktop\graph_calculator\graph_calculator\main.cpp(1460): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\admin\desktop\graph_calculator\graph_calculator\main.cpp(1461): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\admin\desktop\graph_calculator\graph_calculator\main.cpp(1497): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\admin\desktop\graph_calculator\graph_calculator\main.cpp(1501): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\admin\desktop\graph_calculator\graph_calculator\main.cpp(1503): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\admin\desktop\graph_calculator\graph_calculator\main.cpp(1505): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\admin\desktop\graph_calculator\graph_calculator\main.cpp(1509): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\admin\desktop\graph_calculator\graph_calculator\main.cpp(1520): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\admin\desktop\graph_calculator\graph_calculator\main.cpp(1523): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\admin\desktop\graph_calculator\graph_calculator\main.cpp(1525): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\admin\desktop\graph_calculator\graph_calculator\main.cpp(1527): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\admin\desktop\graph_calculator\graph_calculator\main.cpp(1534): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\admin\desktop\graph_calculator\graph_calculator\main.cpp(1537): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\admin\desktop\graph_calculator\graph_calculator\main.cpp(1539): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\admin\desktop\graph_calculator\graph_calculator\main.cpp(1541): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\admin\desktop\graph_calculator\graph_calculator\main.cpp(1546): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\admin\desktop\graph_calculator\graph_calculator\main.cpp(1556): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\admin\desktop\graph_calculator\graph_calculator\main.cpp(1563): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+main.obj : error LNK2001: неразрешенный внешний символ ""public: static class sf::RenderStates const sf::RenderStates::Default" (?Default@RenderStates@sf@@2V12@B)"
+main.obj : error LNK2001: неразрешенный внешний символ ""public: static class sf::Color const sf::Color::Black" (?Black@Color@sf@@2V12@B)"
+main.obj : error LNK2001: неразрешенный внешний символ ""public: static class sf::Color const sf::Color::White" (?White@Color@sf@@2V12@B)"
+main.obj : error LNK2001: неразрешенный внешний символ ""public: static class sf::Color const sf::Color::Green" (?Green@Color@sf@@2V12@B)"
+main.obj : error LNK2001: неразрешенный внешний символ ""public: static class sf::Color const sf::Color::Blue" (?Blue@Color@sf@@2V12@B)"
+main.obj : error LNK2001: неразрешенный внешний символ ""public: static class sf::Color const sf::Color::Yellow" (?Yellow@Color@sf@@2V12@B)"
+main.obj : error LNK2001: неразрешенный внешний символ ""public: static class sf::Color const sf::Color::Cyan" (?Cyan@Color@sf@@2V12@B)"
+main.obj : error LNK2001: неразрешенный внешний символ ""class std::deque<void const *,class std::allocator<void const *> > tgui::priv::data" (?data@priv@tgui@@3V?$deque@PEBXV?$allocator@PEBX@std@@@std@@A)"
+main.obj : error LNK2001: неразрешенный внешний символ ""protected: static unsigned int tgui::SignalWidgetBase::m_lastId" (?m_lastId@SignalWidgetBase@tgui@@1IA)"
+C:\Users\Admin\Desktop\Graph_Calculator\x64\Debug\Graph_Calculator.exe : fatal error LNK1120: неразрешенных внешних элементов: 9
